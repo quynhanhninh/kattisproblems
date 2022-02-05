@@ -34,6 +34,9 @@ def encode(text):
 
 def decode(text):
     result = ''
+    
+    # Grab letter-number pairs from text
+    # and return n times of the letter with n being its paired number
     for i in range(1, len(text), 2):
       result += int(text[i]) * text[i-1]
     print(result)
