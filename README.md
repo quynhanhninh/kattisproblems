@@ -12,7 +12,7 @@ The programs use key concepts in Python programming for beginners, such as strin
 The three programs included in this repository provide corresponding solutions to each of the listed problems above.
 
 I solved these problems by myself. The total amount of time I spent on each problem, including reading prompt, writing and fixing codes, and proofreading/formatting, is as follow:
-- Problem #1 - *Run-Length Encoding, Run!*: 1.5 hour
+- Problem #1 - *Run-Length Encoding, Run!*: 1.5 hours
 - Problem #2 - *Cudoviste*: 2.5 hours
 - Problem #3 - *Backspace*: 45 minutes
 
